@@ -1,2 +1,1 @@
-# cncso
-//CNCSO.org
+www.cso.cn
